@@ -4,7 +4,7 @@ Increase Movement Speed (Only available in fields)
 
 Teleportation in Dungeon
 
-(원본)https://github.com/codetronik
+(원본)https://github.com/codetronik/DepthFantasiaHack
 
 수정사항
 1. 단축키 수정<br>
